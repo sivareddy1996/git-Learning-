@@ -1,4 +1,7 @@
 hii all
 this is sivareddy
 i have 3 years exp on devops
+<<<<<<< HEAD
 i belongs to andhra
+=======
+>>>>>>> bugfix
